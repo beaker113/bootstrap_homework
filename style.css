@@ -15,11 +15,11 @@ body {
     width: 400px;
     float: left;
 }
-/* .container {
+ .container {
 margin-top: 20px;
 border-style: solid;
 padding-left: 20px;
-} */
+} 
 
 .container2 {
     border-style: solid;
@@ -67,4 +67,12 @@ footer {
 
 .col-4 {
 text-align: center;
+}
+
+#nav {
+    color: #fff;
+}
+
+#ul {
+    list-style-type: none;
 }
